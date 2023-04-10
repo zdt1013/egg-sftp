@@ -42,12 +42,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eggjs/egg-sftp.git"
+    "url": "git+https://github.com/zdt1013/egg-sftp.git"
   },
   "bugs": {
-    "url": "https://github.com/eggjs/egg/issues"
+    "url": "https://github.com/zdt1013/egg-sftp/issues"
   },
-  "homepage": "https://github.com/eggjs/egg-sftp#readme",
+  "homepage": "https://github.com/zdt1013/egg-sftp#readme",
   "author": "zdt",
   "license": "MIT"
 }
