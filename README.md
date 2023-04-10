@@ -58,6 +58,9 @@ see [config/config.default.js](config/config.default.js) for more detail.
 
 Please open an issue [here](https://github.com/eggjs/egg/issues).
 
+## Thanks
+ssh2-sftp-client[here](https://github.com/theophilusx/ssh2-sftp-client)
+
 ## License
 
 [MIT](LICENSE)
