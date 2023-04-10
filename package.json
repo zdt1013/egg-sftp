@@ -1,6 +1,6 @@
 {
-  "name": "egg-sftp",
-  "version": "1.0.1",
+  "name": "egg-sftp2",
+  "version": "1.0.0",
   "description": "sftp客户端上传",
   "eggPlugin": {
     "name": "sftp"
@@ -42,12 +42,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zdt1013/egg-sftp.git"
+    "url": "git+https://github.com/zdt1013/egg-sftp2.git"
   },
   "bugs": {
-    "url": "https://github.com/zdt1013/egg-sftp/issues"
+    "url": "https://github.com/zdt1013/egg-sftp2/issues"
   },
-  "homepage": "https://github.com/zdt1013/egg-sftp#readme",
+  "homepage": "https://github.com/zdt1013/egg-sftp2#readme",
   "author": "zdt",
   "license": "MIT"
 }
