@@ -1,6 +1,6 @@
 {
   "name": "egg-sftp2",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "sftp客户端上传",
   "eggPlugin": {
     "name": "sftp"
@@ -34,6 +34,7 @@
   "files": [
     "app.js",
     "agent.js",
+    "index.d.ts",
     "config",
     "lib",
     "app"
